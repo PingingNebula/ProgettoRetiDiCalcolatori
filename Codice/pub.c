@@ -1,4 +1,4 @@
-#include "header.h"
+  #include "header.h"
 
 // Variabili globali
 Pub pub = {MAX_POSTI, {0}, PTHREAD_MUTEX_INITIALIZER}; 
